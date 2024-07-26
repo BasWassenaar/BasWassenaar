@@ -1,6 +1,5 @@
 Hi, I’m @BasWassenaar 👋 
 I’m interested in Azure infrastructure and software architecture.
-[![Linkedin Badge](https://img.shields.io/badge/-baswas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin)][linkedin]
 
 
 <!---
