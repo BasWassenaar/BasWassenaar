@@ -1,5 +1,7 @@
 Hi, I’m @BasWassenaar 👋 
-I’m interested in Azure infrastructure and software architecture.
+
+- I’m interested in Azure infrastructure and software architecture.
+- Sometimes I deliver talks at meetups and conferences like NDC, NIC, and others.
 
 
 <!---
